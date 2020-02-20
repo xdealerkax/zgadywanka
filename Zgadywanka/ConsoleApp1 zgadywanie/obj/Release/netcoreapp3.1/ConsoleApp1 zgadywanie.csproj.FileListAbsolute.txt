@@ -1,0 +1,10 @@
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.exe
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.deps.json
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.runtimeconfig.json
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.runtimeconfig.dev.json
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.dll
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\bin\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.pdb
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\obj\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.AssemblyInfoInputs.cache
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\obj\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.AssemblyInfo.cs
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\obj\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.dll
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ConsoleApp1 zgadywanie\obj\Release\netcoreapp3.1\ConsoleApp1 zgadywanie.pdb
