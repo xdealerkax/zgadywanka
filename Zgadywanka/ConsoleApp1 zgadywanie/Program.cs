@@ -9,7 +9,7 @@ namespace ConsoleApp1_zgadywanie
 
 
             Console.WriteLine("Gra za dużo za mało");
-
+            
             //1. kompyter losuje
             #region losowanie
             var los = new Random();   // nazwa typu nazwa zmiennej zmienna los typu random tworze obiekt typu random
