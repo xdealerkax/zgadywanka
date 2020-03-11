@@ -1,0 +1,8 @@
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\bin\Debug\netstandard2.0\ModelGry.deps.json
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\bin\Debug\netstandard2.0\ModelGry.dll
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\bin\Debug\netstandard2.0\ModelGry.pdb
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\obj\Debug\netstandard2.0\ModelGry.csprojAssemblyReference.cache
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfoInputs.cache
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfo.cs
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\obj\Debug\netstandard2.0\ModelGry.dll
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\ModelGry\obj\Debug\netstandard2.0\ModelGry.pdb

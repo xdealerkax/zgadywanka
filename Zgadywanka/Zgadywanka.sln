@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1 zgadywanie", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraProceduralnie", "GraProceduralnie\GraProceduralnie.csproj", "{C16B12B8-D630-430A-AFA0-833FC1E7C43F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelGry", "ModelGry\ModelGry.csproj", "{16847AAA-3A7D-4D94-B72A-5B3247A50336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelGry", "ModelGry\ModelGry.csproj", "{16847AAA-3A7D-4D94-B72A-5B3247A50336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraGraficznie", "WindowsFormsApp1\GraGraficznie.csproj", "{58CA5AC2-72DC-49DB-AA21-B1BA82E712B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{16847AAA-3A7D-4D94-B72A-5B3247A50336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16847AAA-3A7D-4D94-B72A-5B3247A50336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16847AAA-3A7D-4D94-B72A-5B3247A50336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CA5AC2-72DC-49DB-AA21-B1BA82E712B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CA5AC2-72DC-49DB-AA21-B1BA82E712B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CA5AC2-72DC-49DB-AA21-B1BA82E712B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CA5AC2-72DC-49DB-AA21-B1BA82E712B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

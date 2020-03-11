@@ -1,0 +1,12 @@
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\GraGraficznie.csprojAssemblyReference.cache
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\GraGraficznie.csproj.GenerateResource.cache
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\bin\Debug\ModelGry.dll
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\bin\Debug\ModelGry.pdb
+D:\Users\j.kubac\Documents\GitHub\zgadywanka\Zgadywanka\WindowsFormsApp1\obj\Debug\GraGraficznie.csproj.CopyComplete
